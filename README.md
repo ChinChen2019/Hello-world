@@ -1,2 +1,2 @@
 # HelloWorld
-Only for test
+This is the first commits from Chin.
